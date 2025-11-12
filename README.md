@@ -10,18 +10,18 @@ Static website made with HTML, CSS, JS and Bootstrap
 - [Customization](#customization)
 
 ## Demo
-[Demo](https://ahsankhan26.github.io/personal-portfolio)
+[Demo]((https://github.com/otmane-atrah/otmane-atrah.github.io))
 
 
 ## Installation
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ahsankhan26/personal-portfolio.git
+   git clone https://github.com/otmane-atrah/otmane-atrah.github.io.git
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd personal-portfolio
+   cd otmane-atrah.github.io
    ```
 
 ## Usage
